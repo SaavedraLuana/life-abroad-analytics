@@ -1,12 +1,35 @@
-life-abroad-analytics/
+# 🌍 Life Abroad Analytics
 
-├── data/
-│   └── life_abroad.csv
+A personal SQL project analyzing an international journey across multiple countries, languages, and career transitions.
 
-├── sql/
-│   ├── 01_exploration.sql
-│   ├── 02_country_analysis.sql
-│   ├── 03_language_analysis.sql
-│   └── 04_career_growth.sql
+## Project Goals
 
-└── README.md
+- Analyze international mobility
+- Track language development
+- Explore career growth
+- Practice SQL skills using real-world personal data
+
+## Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Data Exploration
+- Aggregations
+- Business Analysis
+- Storytelling with Data
+
+## Dataset
+
+Personal dataset based on international experiences in:
+
+- Austria
+- United Kingdom
+- Portugal
+- Spain
+
+## Key Questions
+
+- How many countries have I lived in?
+- Which languages have I used most?
+- How has my career evolved over time?
+- What skills were developed in each stage?
