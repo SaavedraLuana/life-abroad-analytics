@@ -1,8 +1,13 @@
-SELECT COUNT(DISTINCT country) AS countries_lived
-FROM life_abroad;
 SELECT
-    country,
-    COUNT(*) AS years_recorded
-FROM life_abroad
-GROUP BY country
-ORDER BY years_recorded DESC;
+    country_id,
+    COUNT(*) AS total_experiences
+FROM experiences
+GROUP BY country_id;
+SELECT
+    skill
+FROM skills;
+SELECT
+    category,
+    COUNT(*) AS total
+FROM skills
+GROUP BY category;
