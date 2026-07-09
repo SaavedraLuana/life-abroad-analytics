@@ -3,9 +3,7 @@ SELECT
     COUNT(*) AS total_experiences
 FROM experiences
 GROUP BY country_id;
-SELECT
-    skill
-FROM skills;
+
 SELECT
     category,
     COUNT(*) AS total
