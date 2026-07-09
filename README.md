@@ -1,35 +1,45 @@
 # 🌍 Life Abroad Analytics
 
-A personal SQL project analyzing an international journey across multiple countries, languages, and career transitions.
+Turning my international journey into data.
+
+## About
+
+This project explores my experience living in different countries and adapting to new cultures, languages, and professional environments.
+
+Instead of using a public dataset, I created my own dataset based on real-life experiences.
 
 ## Project Goals
 
+- Practice SQL using a personal dataset
 - Analyze international mobility
-- Track language development
-- Explore career growth
-- Practice SQL skills using real-world personal data
-
-## Skills Demonstrated
-
-- SQL
-- Data Cleaning
-- Data Exploration
-- Aggregations
-- Business Analysis
-- Storytelling with Data
+- Explore language development
+- Track career growth over time
+- Build data storytelling skills
 
 ## Dataset
 
-Personal dataset based on international experiences in:
+The dataset includes information about:
 
-- Austria
-- United Kingdom
-- Portugal
-- Spain
+- Countries lived in
+- Cities
+- Languages used
+- Professional activities
+- Skills developed
+- Personal satisfaction
 
-## Key Questions
+## Tools
 
-- How many countries have I lived in?
-- Which languages have I used most?
-- How has my career evolved over time?
-- What skills were developed in each stage?
+- SQL
+- GitHub
+- CSV files
+
+## Status
+
+🚧 Work in Progress
+
+## Future Improvements
+
+- Advanced SQL queries
+- Data visualization
+- Power BI dashboard
+- Additional years and experiences
