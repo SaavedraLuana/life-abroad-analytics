@@ -1,11 +1,14 @@
-SELECT
-    country_id,
-    COUNT(*) AS total_experiences
-FROM experiences
-GROUP BY country_id;
+-- Number of countries
 
-SELECT
-    category,
-    COUNT(*) AS total
-FROM skills
-GROUP BY category;
+SELECT COUNT(*)
+FROM countries;
+
+-- Number of experiences
+
+SELECT COUNT(*)
+FROM experiences;
+
+-- Number of skills
+
+SELECT COUNT(*)
+FROM skills;
