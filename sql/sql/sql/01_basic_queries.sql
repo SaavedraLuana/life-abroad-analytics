@@ -1,19 +1,14 @@
+-- View all countries
+
+SELECT *
+FROM countries;
+
 -- View all experiences
 
 SELECT *
 FROM experiences;
--- View all countries
 
-SELECT
-    country
-FROM countries;
--- Count countries
+-- View all skills
 
-SELECT COUNT(*) AS total_countries
-FROM countries;
-SELECT DISTINCT role
-FROM experiences;
-SELECT
-    country,
-    city
-FROM countries;
+SELECT *
+FROM skills;
