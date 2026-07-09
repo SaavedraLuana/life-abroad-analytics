@@ -1,6 +1,15 @@
-year,country,city,language,activity,skill_focus,satisfaction
-2019,Austria,Vienna,German,Au Pair,German Language,8
-2019,United Kingdom,London,English,Au Pair,English Language,9
-2020,Portugal,Lisbon,Portuguese,Customer Service,Communication,7
-2021,Spain,Madrid,Spanish,Freelance,Negotiation,8
-2026,Spain,Madrid,Spanish,Data Analytics,SQL,10
+year,country,city,role,industry,primary_language,new_skill,skill_category,satisfaction
+2018,Austria,Tyrol,Au Pair,Childcare,German,Adaptability,Soft Skill,9
+2018,Austria,Tyrol,Au Pair,Childcare,German,Childcare,Professional,9
+2018,Austria,Tyrol,Au Pair,Childcare,German,Cross-cultural Communication,Soft Skill,9
+2019,United Kingdom,London,Au Pair,Childcare,English,Independence,Soft Skill,9
+2019,United Kingdom,London,Au Pair,Childcare,English,Time Management,Professional,9
+2020,Portugal,Lisbon,Transition,Personal Development,Portuguese,Resilience,Soft Skill,7
+2020,Spain,Madrid,Au Pair,Education,Spanish,Marketing,Business,10
+2021,Spain,Madrid,Receptionist,Aesthetic Clinic,Spanish,CRM Systems,Technical,9
+2021,Spain,Madrid,Receptionist,Aesthetic Clinic,Spanish,Customer Service,Professional,9
+2022,Spain,Madrid,Freelancer,Languages,Spanish,Translation,Professional,8
+2023,Spain,Madrid,Freelancer,Remote Work,Spanish,Remote Collaboration,Professional,8
+2024,Spain,Madrid,Marketing Student,Education,Spanish,Marketing Analytics,Technical,9
+2025,Spain,Madrid,Data Analytics Student,Education,Spanish,Python,Technical,10
+2026,Spain,Madrid,Data Analytics Student,Education,Spanish,SQL,Technical,10
