@@ -137,6 +137,16 @@ This project aims to answer questions such as:
 - What patterns emerge between cultural immersion and skill development?
 
 ---
+## 📊 Project Snapshot
+
+| Metric | Value |
+|---------|-------|
+| Countries | 4 |
+| Languages | 4 |
+| Professional Roles | 5 |
+| Years Abroad | 8+ |
+| Current Country | Spain |
+| Current Goal | Data Analytics |
 
 ## 🛠 Technologies
 
@@ -200,7 +210,32 @@ I'm passionate about learning, languages, marketing, and creating data projects 
 - Build interactive Power BI dashboards
 - Perform statistical analysis with Python
 - Expand SQL complexity with CTEs, Views, and Window Functions
+  
 
 ---
+## 🛣 Learning Roadmap
+
+- [x] Project planning
+- [x] Database design
+- [x] Dataset creation
+- [ ] Basic SQL
+- [ ] GROUP BY
+- [ ] JOIN
+- [ ] CASE WHEN
+- [ ] CTE
+- [ ] Window Functions
+- [ ] Power BI Dashboard
+   
+   
+    ---
+    ## 🌱 Lessons Learned
+
+Building this project has helped me understand:
+
+- How to organize relational data
+- How personal experiences can become analytical datasets
+- The importance of clean and structured data
+- How SQL can answer meaningful questions 
+
 
 ⭐ Thank you for visiting my project!
