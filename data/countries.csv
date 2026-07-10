@@ -1,0 +1,5 @@
+country_id,country_name,region,languages_spoken,first_visit,last_visit
+1,Austria,Europe,German;English,2018-01-15,2019-12-31
+2,United Kingdom,Europe,English,2019-06-01,2019-09-30
+3,Portugal,Europe,Portuguese;English,2019-10-01,2020-02-28
+4,Spain,Europe,Spanish;English;Portuguese,2020-03-01,2026-12-31

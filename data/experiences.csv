@@ -1,0 +1,11 @@
+experience_id,country_id,year,role,industry,primary_language,duration_months,satisfaction_rating
+1,1,2018,Au Pair,Childcare,German,12,9
+2,2,2019,Au Pair,Childcare,English,4,9
+3,3,2020,Transition,Personal Development,Portuguese,5,7
+4,4,2020,Au Pair,Education,Spanish,12,10
+5,4,2021,Receptionist,Aesthetic Clinic,Spanish,12,9
+6,4,2022,Freelancer,Languages,Spanish,12,8
+7,4,2023,Freelancer,Remote Work,Spanish,12,8
+8,4,2024,Marketing Student,Education,Spanish,12,9
+9,4,2025,Data Analytics Student,Education,Spanish,12,10
+10,4,2026,Data Analytics Student,Education,Spanish,6,10

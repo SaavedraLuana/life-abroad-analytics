@@ -1,0 +1,21 @@
+skill_id,skill_name,skill_category,skill_type
+1,Adaptability,Soft Skill,Interpersonal
+2,Independence,Soft Skill,Interpersonal
+3,Cross-cultural Communication,Soft Skill,Interpersonal
+4,Childcare,Professional,Domain-Specific
+5,Time Management,Professional,Operational
+6,Resilience,Soft Skill,Interpersonal
+7,Problem Solving,Soft Skill,Cognitive
+8,Stress Management,Soft Skill,Interpersonal
+9,Marketing,Business,Business Domain
+10,Customer Service,Professional,Operational
+11,CRM Systems,Technical,Tools
+12,Translation,Professional,Domain-Specific
+13,Remote Collaboration,Professional,Operational
+14,Communication,Professional,Interpersonal
+15,Client Relationship,Business,Business Domain
+16,Patience,Soft Skill,Interpersonal
+17,Cultural Awareness,Soft Skill,Interpersonal
+18,Marketing Analytics,Technical,Business Domain
+19,Python,Technical,Programming
+20,SQL,Technical,Programming
